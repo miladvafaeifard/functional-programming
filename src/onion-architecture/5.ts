@@ -1,7 +1,5 @@
 /*
-
-  E se volessimo far girare il programma in un contesto asincrono?
-
+  What if we want to run the program in an asynchronous context?
 */
 
 import * as fs from 'fs'

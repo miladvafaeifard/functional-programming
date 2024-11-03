@@ -1,9 +1,6 @@
 /*
-
-  Adattato da https://github.com/matteobaglini/onion-with-functional-programming
-
-  Porting dell'originale in TypeScript
-
+  Adapted from https://github.com/matteobaglini/onion-with-functional-programming
+  Porting the original to TypeScript
 */
 
 import * as fs from 'fs'

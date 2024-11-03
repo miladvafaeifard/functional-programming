@@ -1,7 +1,5 @@
 /*
-
-  Primo refactoring: estrarre le funzioni
-
+  First refactoring: extract functions
 */
 
 import * as fs from 'fs'

@@ -1,7 +1,5 @@
 /*
-
-  E se volessimo far girare il programma in un qualsiasi contesto monadico?
-
+  What if we wanted to run the program in any monadic context?
 */
 
 import * as fs from 'fs'

@@ -1,9 +1,6 @@
 /*
-
-  Secondo refactoring: inversion of control
-
-  Le funzioni impure le trasformo in dipendenze
-
+  Second refactoring: inversion of control
+  I transform the impure functions into dependencies
 */
 
 import * as fs from 'fs'

@@ -1,9 +1,6 @@
 /*
-
-  Terzo refactoring: rendere le funzioni pure con `IO`
-
-  Modifichiamo la firma delle funzioni impure usando `IO` e cambiamo il nome di alcune astrazioni per renderle più idiomatiche
-
+  Third refactoring: making functions pure with `IO`
+  Let's change the signature of impure functions using `IO` and rename some abstractions to make them more idiomatic
 */
 
 import * as fs from 'fs'
