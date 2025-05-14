@@ -1,5 +1,5 @@
 /**
- * Modellare un albero binario completo, il/i costruttore/i, la funzione di pattern matching
- * e una funzione che converte l'albero in un `ReadonlyArray`
+* Model a complete binary tree, the constructor(s), the pattern matching function
+* and a function that converts the tree to a `ReadonlyArray`
  */
 export type BinaryTree = unknown

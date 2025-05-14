@@ -1,8 +1,7 @@
 /*
-
-  Rifattorizzare il seguente codice in modo da eliminare l'errore di compilazione.
-
+* Refactor the following code to eliminate the compilation error.
 */
+
 import { flow } from 'fp-ts/function'
 import { match, Option } from 'fp-ts/Option'
 

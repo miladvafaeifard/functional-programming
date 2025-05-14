@@ -1,6 +1,7 @@
 /**
- * Modellare il punteggio di un game di tennis
- */
+* Modeling the score of a tennis game
+*/
+
 type Player = 'A' | 'B'
 
 type Game = unknown
